@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @PraveshR07
-- 👀 I’m interested in ... Web Dev, Azure Cloud, UX/UI Design!
-- 🌱 I’m currently learning ... JavaScript, and Python. 
-- 💞️ I’m looking to collaborate on ... Any beginner project! 
-- 📫 How to reach me ... Email: PraveshR07@hotmail.com | Feel free to reach out! Let connect and create something cool.. 
+- 👀 I’m interested in ... Web Dev, Azure Cloud, CD/CI, Agile Development!
+- 🌱 I’m currently learning ... 2023 = PostgreSQL, 
+- 💞️ I’m looking to collaborate on ... Any projects! 
+- 📫 How to reach me ... Email: PraveshR07@hotmail.com | Feel free to reach out! Let's connect and create something cool.. 
 
 <!---
 PraveshR07/PraveshR07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
